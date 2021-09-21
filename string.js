@@ -1,3 +1,5 @@
+// Group Members: Josue Ramirez-Romero, Raul Veras, Saikat Safa
+
 //1
 //DrEvil
 //create a function called DrEvil. It should take a single argument, an amount
